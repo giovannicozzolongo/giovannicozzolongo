@@ -4,8 +4,6 @@
 
 I apply machine and deep learning to large-scale data from NASA-affiliated research, and build software for a wind-driven Mars rover at [Team Tumbleweed](https://www.teamtumbleweed.eu/), an ESA-incubated startup. Currently finishing a PhD in Physics at FAU Erlangen-Nurnberg. I like building things that work, teams that challenge each other, and explaining complicated things to people who think they won't get it.
 
----
-
 ### What I work on
 
 - **Graph Neural Networks** for signal classification on high-dimensional sensor data (EdgeConv, GraphSAGE, GAT)
@@ -39,16 +37,9 @@ I apply machine and deep learning to large-scale data from NASA-affiliated resea
 |---|---|
 | [**gnn-fraud-detection**](https://github.com/giovannicozzolongo/gnn-fraud-detection) | GNN fraud detection on the Elliptic Bitcoin dataset. GraphSAGE + JumpingKnowledge, temporal evaluation, focal loss. |
 | [**vae-sensor-anomaly**](https://github.com/giovannicozzolongo/vae-sensor-anomaly) | Variational autoencoder for sensor anomaly detection and remaining useful life prediction. KL annealing, F1 +19 pts over standard autoencoder. |
-| [**llm-job-classifier**](https://github.com/giovannicozzolongo/llm-job-classifier) | QLoRA fine-tuning of Mistral-7B for job posting classification. Debugged a silent training data loss that made fine-tuning lose to zero-shot. |
+| [**llm-job-classifier**](https://github.com/giovannicozzolongo/llm-job-classifier) | QLoRA fine-tuning of Mistral-7B for job posting classification. 86% accuracy, +17 pts over zero-shot baseline. |
 | [**rag-deploy**](https://github.com/giovannicozzolongo/rag-deploy) | Question answering over technical docs with FAISS retrieval and local LLM generation. |
 | [**debate-arena**](https://github.com/giovannicozzolongo/debate-arena) | Multi-agent AI debate platform. Two LLM agents debate any topic in real time, a third judges. |
 | [**quick-recap**](https://github.com/giovannicozzolongo/quick-recap) | AI-powered text and voice recap. Paste or record, get a clean rewrite instantly. |
 
 *More projects available on request.*
-
----
-
-<p>
-  <a href="https://www.linkedin.com/in/giovannicozzolongo">LinkedIn</a> ·
-  <a href="https://www.teamtumbleweed.eu/">Team Tumbleweed</a>
-</p>
