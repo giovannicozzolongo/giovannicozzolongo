@@ -39,6 +39,7 @@ I apply machine and deep learning to large-scale data from NASA-affiliated resea
 |---|---|
 | [**gnn-fraud-detection**](https://github.com/giovannicozzolongo/gnn-fraud-detection) | GNN fraud detection on the Elliptic Bitcoin dataset. GraphSAGE + JumpingKnowledge, temporal evaluation, focal loss. |
 | [**vae-sensor-anomaly**](https://github.com/giovannicozzolongo/vae-sensor-anomaly) | Variational autoencoder for sensor anomaly detection and remaining useful life prediction. KL annealing, F1 +19 pts over standard autoencoder. |
+| [**llm-job-classifier**](https://github.com/giovannicozzolongo/llm-job-classifier) | QLoRA fine-tuning of Mistral-7B for job posting classification. Debugged a silent training data loss that made fine-tuning lose to zero-shot. |
 | [**rag-deploy**](https://github.com/giovannicozzolongo/rag-deploy) | Question answering over technical docs with FAISS retrieval and local LLM generation. |
 | [**debate-arena**](https://github.com/giovannicozzolongo/debate-arena) | Multi-agent AI debate platform. Two LLM agents debate any topic in real time, a third judges. |
 | [**quick-recap**](https://github.com/giovannicozzolongo/quick-recap) | AI-powered text and voice recap. Paste or record, get a clean rewrite instantly. |
